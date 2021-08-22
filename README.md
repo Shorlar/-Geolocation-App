@@ -17,8 +17,7 @@ This is a web app that tracks users IP Address on page load. Also users can use 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: https://shola-ip-address-tracker-ap.netlify.app/
 
 ### Built with
 
